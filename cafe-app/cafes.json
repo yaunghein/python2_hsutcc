@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Basket",
+        "district": "Bang Na",
+        "map_link": "https://maps.app.goo.gl/CWvYwqj6L3PUZAQZ9"
+    },
+    {
+        "name": "La Bonne",
+        "district": "Bangkok",
+        "map_link": "https://maps.app.goo.gl/Xi6wjBECLJkpkCZ28"
+    },
+    {
+        "name": "Forestpresso",
+        "district": "Chiang Mai",
+        "map_link": "https://maps.app.goo.gl/zmSRDd6xNNzgFQLt6"
+    },
+    {
+        "name": "MiVana",
+        "district": "Chiang Mai",
+        "map_link": "https://maps.app.goo.gl/gnvrqCGTnPiqyp1Z9"
+    },
+    {
+        "name": "Taamjai",
+        "district": "Bangkok",
+        "map_link": "https://maps.app.goo.gl/kuukPkwR1AMdHVfe7"
+    },
+    {
+        "name": "Plant Workshop",
+        "district": "Bangkok",
+        "map_link": "https://maps.app.goo.gl/YoZEkTkgcqTcFqUQ9"
+    },
+    {
+        "name": "Baan Saen Saep",
+        "district": "Sukhumvit",
+        "map_link": "https://maps.app.goo.gl/n71ZjAgn2tM8yUys8"
+    },
+    {
+        "name": "Bankampu Tropical Cafe",
+        "district": "Bangkok",
+        "map_link": "https://maps.app.goo.gl/Zh4si4E4y5ax855eA"
+    },
+    {
+        "name": "Yard 49",
+        "district": "Bangkok",
+        "map_link": "https://maps.app.goo.gl/NWfBrswuA1Kr7rnp9"
+    },
+    {
+        "name": "Park Sathorn",
+        "district": "Sathorn",
+        "map_link": "https://maps.app.goo.gl/osNVQveTTsmBLf7t9"
+    },
+    {
+        "name": "Baansuan Sathorn",
+        "district": "Sathorn",
+        "map_link": "https://maps.app.goo.gl/cyNjtajjD9norgwE8"
+    }
+]
